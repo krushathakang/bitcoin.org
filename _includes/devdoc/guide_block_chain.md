@@ -83,7 +83,7 @@ satoshi transaction fee.
 
 {% autocrossref %}
 
-The block chain is collaboratively maintained by anonymous peers on the network, so
+The block chain is collaboratively maintained by peers on the network, so
 Bitcoin requires that each block prove a significant amount of work was invested in
 its creation to ensure that untrustworthy peers who want to modify past blocks have
 to work harder than honest peers who only want to add new blocks to the
